@@ -5,12 +5,12 @@ modified: 2021-09-27T16:51:43+03:00
 tags: web
 ---
 
-Смотри также: [_как написать бота самому_](../code/telegram-bot.md)
+See also: [how to write a bot yourself](../code/telegram-bot.md)
 
-## Музыка
-- [**@LyBot**](tg://resolve?domain=LyBot) - скачивает из ютуба, яндекса, spitify и др. есть inline поиск. Есть конструктор своих ботов @creatorMusicBot. Support: @lyblog @ly_oBot
-- [**@vkm4bot**](tg://resolve?domain=vkm4bot) - бот от автора LyBot. Поиск по VK
-- [**@NowPlaybot**](tg://resolve?domain=NowPlaybot) - отправляет трек, который сейчас играет в spotify. Автор: @nowplaylogs @koteek @anna_ignores @donateanna https://instagram.com/meowkoteeq @tikcock
+## Music
+- [**@LyBot**](tg://resolve?domain=LyBot) - downloads from YouTube, Yandex, spitify, etc. There is an inline search. There is a designer of your own bots @creatorMusicBot. Support: @lyblog @ly_oBot
+- [**@vkm4bot**](tg://resolve?domain=vkm4bot) - bot from the author LyBot. Search by VK
+- [**@NowPlaybot**](tg://resolve?domain=NowPlaybot) - sends the track currently playing on spotify. Author: @nowplaylogs @koteek @anna_ignores @donateanna https://instagram.com/meowkoteeq @tikcock
 - [**@sound2bot**](tg://resolve?domain=sound2bot) - поиск и скачивание из вконтакте. Реклама 
 - [@DeezerMusicBot](tg://resolve?domain=DeezerMusicBot) - music from Deezer, Spotify, SoundCloud, VK. Искать в чате с ботом. В инлайн режиме показывает недавно скачанные треки. Автор: @DeezerBotNews @DeezerMusicContactBot
 - [**@yamdbot**](tg://resolve?domain=yamdbot) - в ответ на ссылку присылает трек. Или целый альбом. Автор: alowave.cc @lowdev @alowave @alone_as_bot @lowdev @donate_alowave 
